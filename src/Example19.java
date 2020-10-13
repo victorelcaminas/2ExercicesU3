@@ -18,6 +18,6 @@ public class Example19 {
             }
         }
         total = price - discount;
-        System.out.println("Final price is " +total);
+        System.out.println("Final price is " + total);
     }
 }
